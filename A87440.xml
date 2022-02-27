@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The juries right, asserted and vindicated by the ancient and good law of England VVherin is clearly discovered the necessity, benefit, and safety of juries, in opposition to those corruptions, and many evils that are incident, and do attend judges (as they are cal'd) both in civill and common courts. Occasioned by the late unjust, cruell, and illegall triall of Mr Tho. Webbe, at the sessions held for London and Middlesex in the Old Bayly. By Abraham Lawmind, ear-witnesse of the said triall, a hearty well-wisher of the common good.</title>
+            <author>Lawmind, Abraham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87440</idno>
+            <idno type="STC">Wing J1215A</idno>
+            <idno type="STC">ESTC R229627</idno>
+            <idno type="EEBO-CITATION">99899243</idno>
+            <idno type="PROQUEST">99899243</idno>
+            <idno type="VID">152680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152680)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2314:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The juries right, asserted and vindicated by the ancient and good law of England VVherin is clearly discovered the necessity, benefit, and safety of juries, in opposition to those corruptions, and many evils that are incident, and do attend judges (as they are cal'd) both in civill and common courts. Occasioned by the late unjust, cruell, and illegall triall of Mr Tho. Webbe, at the sessions held for London and Middlesex in the Old Bayly. By Abraham Lawmind, ear-witnesse of the said triall, a hearty well-wisher of the common good.</title>
+                  <author>Lawmind, Abraham.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jury --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Constitutional history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152680:1" rendition="simple:additions"/>
+            <p>The Juries Right, Aſſerted and vindicated by the Ancient and good Law of <hi>England.</hi>
+            </p>
+            <p>VVherin is clearly diſcovered the neceſſity, benefit, and ſafety of Juries, in oppoſition to thoſe corruptions, and many evils that are incident, and do attend Judges (as they are cal'd) both in Civill and Common Courts.</p>
+            <p>Occaſioned by the late unjuſt, cruell, and illegall Triall of Mr <hi>Tho. Webbe,</hi> at the Seſſions held for <hi>London</hi> and <hi>Middle-ſex</hi> in the Old Bayly.</p>
+            <p>By <hi>Abraham Lawmind,</hi> ear-witneſſe of the ſaid Triall, a hearty Well-wiſher of the common good.</p>
+            <q>
+               <bibl>
+                  <hi>Deut. 17.6.</hi>
+               </bibl>
+               <p>At the mouth of two Witneſſes, or three Witneſſes, ſhall he that is worthy of death be put to death; but at the mouth of one Witneſſe he ſhall not be put to death.</p>
+               <bibl>
+                  <hi>Chap. 9.15.</hi>
+               </bibl>
+               <p>One Witneſſe ſhall not riſe up againſt a man for any iniquity, or for any ſinne wherein he ſinneth; but at the mouth of two Witneſſes, or at the mouth of three Witneſſes ſhall the matter be ſtabliſhed.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. J.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152680:2"/>
+            <pb n="3" facs="tcp:152680:2"/>
+            <head>The Juries Right, &amp;c.</head>
+            <opener>
+               <salute>Gentlemen:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Eriouſly conſidering of the great weight of your imployment and the great truſt repoſed in you, by the Conſtitution of our good an<g ref="char:EOLhyphen"/>cient Lawes, placing the Iſſues of life and death of the Priſoners (whoſe caſes come within your cognizance) in your honeſt and judicious conſideration. The Law of this Land conſtituting you Judges both of Law and fact; and indeed making you the chiefe Judges in the Court, all others but inferior to you, as appears by the Lord <hi>Cookes</hi> Co<g ref="char:cmbAbbrStroke">̄</g>mentaries on Littleton, <hi>viz.</hi> In this caſe the Recognitors of the Aſſize may ſay &amp; render to the Juſtices their verdict at large upon the whole matter: and in another place he ſaith, <hi>viz.</hi> for as well as the Jurors may have Cognizance of the Leaſe, they alſo may as well have Cognizance of the Condition: And further, <hi>Cook</hi> there ſaith, Here its to be obſerved that a ſpeciall verdict, or at large may be given in any action, and upon any iſſue, be the iſſue generall or ſpeciall: and in Section 368. <hi>Littleton</hi> hath theſe words, alſo in ſuch caſe where the inqueſt may give their verdict at large, if they will take upon them the knowledge of the
+<pb n="4" facs="tcp:152680:3"/>
+Law, upon the matter they may give their verdict gene<g ref="char:EOLhyphen"/>rally. <hi>Cooks</hi> words upon it are to the ſame purpoſe, <hi>viz.</hi> That the Jury if they will take upon them the knowledge of the Law (as <hi>Littleton</hi> here ſaith) may give a generall verdict: and this we ſee made good in all <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, where Juries doe not onely judge of the validity of the proofe of the fact but alſo of the Law, by aſſigning what <gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ges they thinke is juſt, I ſay theſe things induced <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to offer unto your ſerious thoughts theſe following lines, in part disburthening my ſelfe of thoſe many ſad thoughts, which I contracted to my ſelfe at the laſt Seſſions, held in the Old Bayly for the City of London and Middleſex, at the Triall of one Mr. <hi>Tho. Webbe,</hi> a Gentleman to whom I am altogether a ſtranger, onely being preſent in the Court when he was call'd to the Bar, and perceiving a high deſigne carried on by the Court againſt him, I was very intentive in hearing the triall, for the information of my ſelfe. And having heard it, and ſtrictly examining the ſe<g ref="char:EOLhyphen"/>verall paſſages thereof, and then inquiring of an Officer how long the Gentleman had been in cuſtody? I was in<g ref="char:EOLhyphen"/>formed, that hee was committed by Lievetenant Collonel <hi>Barkſteed,</hi> and Mr <hi>Baldwine</hi> Gent. Porter of the Tower, for coyning, and had been in Newgate 9 weeks. At which I could not but much wonder, that a Gentleman (and in<g ref="char:EOLhyphen"/>deed any) ſhould be committed to Priſon for one fact, and when Seſſions comes to be indicted for another, it being a ready way to deſtroy even the innocenteſt of men. For when one committed to a Goale, makes preparation a<g ref="char:EOLhyphen"/>gainſt his Triall for what hee was committed; when hee comes to be arraigned he ſhall bee arraigned for another thing, unthought of by the Priſoner, and ſhall bee forced to joyne iſſue thereon. What a moſt ſad condition is that Priſoner in? And what illegall and cruell dealings are theſe, putting the Priſoner on the greateſt hazard and dan<g ref="char:EOLhyphen"/>ger of his life, being ſo ſuddenly ſurprized by an Indict<g ref="char:EOLhyphen"/>ment againſt which he hath made no proviſion?</p>
+            <p>
+               <pb n="5" facs="tcp:152680:3"/>This I perceived was the caſe of Mr. <hi>Webbe,</hi> who had hee not undauntedly withſtood the malice carried on a<g ref="char:EOLhyphen"/>gainſt him, and the Gentlemen of his Jury had not beene men of honeſt mindes, Gentlemen diſcreet and knowing, the danger was ſo great, by reaſon of the mallice carried a<g ref="char:EOLhyphen"/>gainſt him, that nothing but life would ſatisfie, which fully ſatisfied me of the neceſſity of Juries, the only equall and beſt way of deciding and terminating of Cauſes, whether civill or criminall, they being the Guard of our Eſtates, Li<g ref="char:EOLhyphen"/>berties and Lives. The Court many times are intereſted by made friends; and indeed the chiefe thereof their pla<g ref="char:EOLhyphen"/>ces are their trades: and where there is continuance in any Office, oaths (though never ſo binding) weare out, and little regarded, (the great grievance and crying ſin of this Nation) as is witneſſed by daily, wofull, and ſad expe<g ref="char:EOLhyphen"/>rience.</p>
+            <p>But now a Jury conſiſting of 12 honeſt and indifferent men, whoſe places are not their trades, who have not yearly allowances for the ſame, and who only ſerve being elect<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and not perpetuated in their places, I appeale to all rationall men, whether ſuch a way bee not moſt equall, moſt ſafe and ſecure? and whether there be that probabi<g ref="char:EOLhyphen"/>lity of the Juries being corrupted, made friends, &amp;c. as of the Iudges? (as they are called) No, I conceive it's the ſtanding water corrupts and gathers filth, and not the run<g ref="char:EOLhyphen"/>ning ſtream, &amp;c.</p>
+            <p>And now Gentlemen whoſe lots it ſhall fall out to be to ſerve in the Iuries for London and Middleſex, your Of<g ref="char:EOLhyphen"/>fice being of ſuch neceſſity, and beyond which the wiſeſt of men cannot invent and finde out a more equall, ſafe, and beter way.</p>
+            <p>I ſhall proceed to give you a true and briefe relation of the Gentlemans Triall before mentioned, wherein you may ſee the hazards poore priſoners are many times put upon, and how much the Court ſtops the legall Current of your right, as you are Iudges both of law and fact, and
+<pb n="6" facs="tcp:152680:4"/>
+ſworn equally between the Common-Weale and Priſoner at the Bar, and be rouzed up like ſo many Engliſh men to claime your right, to loſe no part of it; it's not onely the Priſoner at the Bar ſuffers, but many times endeavours are made to ſtifle the light of a good conſcience in you: there<g ref="char:EOLhyphen"/>fore Gentlemen know what you are; ſtand faſt in it; let a good conſcience alwaies dwell in you; for Divine Pro<g ref="char:EOLhyphen"/>vidence hath call'd you forth to ſtand betweene life and death, to judge betweene the nocent and innocent, that the evil may be puniſhed, and the good juſtified.</p>
+            <p>Now Gentlemen, I deſire you to underſtand, that the laſt Seſſions held in the Old Bayly began on a Wedneſday, the 12. of December laſt, and ended Saturday following, on which day I being there indeed only to ſee paſſages, and to informe my judgement, Mr. <hi>Webbe</hi> aforeſaid was call'd to the Bar, who appearing, after holding up the hand, the Indictment for Adultery being read, and guilty or not guilty being asked him, hee deſired liberty before he plea<g ref="char:EOLhyphen"/>ded (as was but right for to bee granted him) to ſpeake; but it was very angerly denied him, and hee urging it as his due, the Court cauſed him to be turned to the other ſide of the Bar, and there Mr. <hi>Briſcoe</hi> threatned to gauge him if he ſpake, when what I perceived the Gentleman had a deſire to ſpeak, was only to have a Copy of his Indictment and a little time given him to provide an anſwer to it, hee expreſſing himſelf there in the Court, that he had no notice of any ſuch indictment, being committed for coyning, &amp; ſo had not provided any thing for his defence, and the Act againſt Adultery allowes witneſſes to be heard and ſworn on the Priſoners behalfe, therefore the Gentleman deſired a little time, but it was moſt illegally and cruelly denied him, and the Gentleman forced to a Triall; ſo that had he not ſtoutly withſtood their prejudice againſt him, and a judicious Jury to conſider the matter of fact &amp;c. I deſire you to conſider what eminent danger his life had been in, being ſuddenly ſurpriſed by an unknow indictment, and
+<pb n="7" facs="tcp:152680:4"/>
+not having any time to provide any Witneſſes for his de<g ref="char:EOLhyphen"/>fence? Oh, how many innocent perſons have thus been caſt away! and how many more may, if you Gentlemen ſtand not in the gap in the claime and uſe of your owne Right?</p>
+            <p>And after the Gentleman was put upon theſe diſadvan<g ref="char:EOLhyphen"/>tages, and like a naked man ſeized on by the prejudice and will of the Court, and forced to plead. After that he had pleaded not guilty, and when it was expected that evi<g ref="char:EOLhyphen"/>dence ſhould bee ſworne and heard to the matter of fact mentioned in the Indictment, there ſtood up a Councell at Law, one Mr. <hi>Hilbey,</hi> in the behalfe of the Protector, a<g ref="char:EOLhyphen"/>gainſt the Priſoner at the Bar, (another ſtrange unheard of diſadvantage, eſpecially for a naked and unprovided man, as the Gentleman was) who inſtead of pleading either to the fact, or matter of Law, fell to railing and abuſing Mr. <hi>Webbe</hi> very groſſely, and that with matters of opinion of 4 or 5 yeares ſtanding. Mr. <hi>Webbe</hi> deſired the Court, that ſince a Councel was entertained againſt him, that he might heare the Witneſſes ſworne, and then if the Councel could inform the Iury, as to matter of fact from the evidence, he might freely ſpeake; but for the Councel to wave the matter in queſtion, and to run back to opinions of foure or five years ſtanding, and they ſuch alſo which are falſe, hee could not but looke on it as very hard meaſure: and truly Gentlemen you may conſider of it, for the Priſoner was not onely in hazard by that irregular piece of malice, but the judgements of the Iury was e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deavored to be traduced, and to entertain a prejudice againſt the Priſoner, and ther<g ref="char:EOLhyphen"/>fore the Counſel laboured to poſſeſs the Iury with dange<g ref="char:EOLhyphen"/>rous opinions the Priſoner held, and what a dangerous per<g ref="char:EOLhyphen"/>ſon he was, and therefore, ſaid he, not fit to live; and ſo would have taken off the Iuries conſideration of the fact, and have faſtened their thoughts on his invectives againſt the priſoner, which (Gentlemen) if the Iury had ſo done, or at any time ſhould do (which God forbid any ſhould)</p>
+            <p>
+               <pb n="8" facs="tcp:152680:5"/>What a ſad condition may an innocent perſon bee brought into, their lives taken away, Ju<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies traduced and abuſed, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our whole Law made invalid and to become a thing of its word?</p>
+            <p>Yet for all this, the P<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>r could not bee heard, but the Counſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſuffered to p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceed in his invectives, and to be ſpatter his good name and reputation, till at laſt, whe<g ref="char:EOLhyphen"/>ther it was ſhame, of becauſe the Councell had no more rayling matter againſt the Priſoner, he ceaſed, &amp; then about ſixteene or ſeventeene witneſſes were ſworne; ſome from Dover, ſome out of Southwarke, and ſome in London, but not one of them all ſwore to the matter of fact. <hi>viz.</hi> (carnall knowledge;) nay not any of them ſwore that ever the Priſoner was ſeene in bed with the Gentlewoman? onely one M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. <hi>Neale</hi> whoſe evidence was contradicted: for when the Priſoner deſired the Court to aske her where it was ſhe could not tell, onely in gene<g ref="char:EOLhyphen"/>rall it was in London, but where about or at whoſe houſe ſhe could not tell. Beſides ſhe is known to be a ve<g ref="char:EOLhyphen"/>ry idle perſon, who hath beene a companion with her husband in abundance of evils, &amp; her husband was hangd the Seſſions before for an high way man; ſo that though there was many witneſſes and abundance of dirty mat<g ref="char:EOLhyphen"/>ters, yet not one to the fact, nor from all could handſomly be deduced and drawne, the leaſt ſhadow or circumſtance to prove the fact.</p>
+            <p>Now when the witneſſes were ſworne and had given in their evidence with the help of the Councell, who would have drawne ſome of the witneſſes by tricks and quirks to evidence what they knew not, the Councell inſtead of making uſe of the evidence, to prove the mat<g ref="char:EOLhyphen"/>ter of fact, waved that, and falls to his former raylings with abundance of demureneſs, firſt premiſes ſolemnly that hee had no knowledge of the Priſoner, nor never ſee him till then at the Barre; yet in the next place backs the evi<g ref="char:EOLhyphen"/>dence with telling the Jury that the Priſoner was not fit
+<pb n="9" facs="tcp:152680:5"/>
+to live, for he was a man of erronious and dangerous prin<g ref="char:EOLhyphen"/>cipalls, and ſo vented his foule mouth againſt the Priſo<g ref="char:EOLhyphen"/>ner, who all that while with abundance of patience heard it, not being ſuffered to ſpeake, till at laſt the Councell having ſhot out his venome, the Priſoner did himſelfe in a very ſhort, but full, anſwer to the evi<g ref="char:EOLhyphen"/>dence, applying himſelfe very diſcreetly to the Gentle<g ref="char:EOLhyphen"/>men of the Jury, deſiring them to conſider the matter of fact for which hee ſtood there arraigned, and for which they were ſworne to paſſe indifferently betweene the Protector and him the Priſoner at the Barre, and the evi<g ref="char:EOLhyphen"/>dence to the fact; withall acquainting them, that though the Gentleman Lawyer was pleaſed to take a fee to abuſe him, and ſo to make that his chiefe worke, neglecting all things of Law, matter of fact, and indeed common civillity, yet hee hoped better things of them. <hi>viz.</hi> that they would mind their worke, the fact, the evidence to it, and not be ſeduced by the Councells evill example; in confidence whereof he moſt chearfully reſigned himſelfe to their Uerdit, deſiring the Lord to goe along with them &amp;c. After this the Councell offered to ſpeake and to that end puld out ſome papers out of his pocket, but what hindred whether they were blankes or ſtuffed with ſuch malice as hee had ſufficiently before vented, I know not, but the paper he put up againe, and onely ſayd mum; and ſo after ſome debate the Jury brought their verdict, not guilty, onely one remarkable paſſage happened and that was the Jury; while withdrawne to conſider of their verdict ſent three times to the Court for to have the Act. but it was denied them, &amp; anſwer returnd, that they were onely to conſider of the matter of fact, but if any thing of Law did ariſe they were to come to the Court, and the Court would reſolve them; a moſt ſtrange kinde of pra<g ref="char:EOLhyphen"/>ctiſe that the Jury who are ſworne, and who may as is cited in the beginning, take the cogniſance of the whole matter both as to fact, and Law, ſhould bee denyed the
+<pb n="10" facs="tcp:152680:6"/>
+Law, that the Court ſhall hedge all in their owne breaſts, certainly congruant with this practiſe would be illiterate men, men that can neither write nor read; a Jury of ſuch men will never trouble the Court with buſineſſe of Law, they will never ſend to the Court for their Statute and Law books; and its much to bee wondred what the reaſon was why the Court ſhould deny the Jury the Act; certainly it to bee doubted their ends were not good in the thing.</p>
+            <p>But ſo noble and gallant were the Gentlemen of the Jury, that they keepe cloſe to their owne, and would not yield one inch to the unjuſt deteiner of the Court, a good example and preſident for all Gentlemen who ſhall bee imployed in that honourable ſervice of the Common<g ref="char:EOLhyphen"/>weale.</p>
+            <p>Now Gentlemen, you have had the relation of Mr. <hi>Webbs</hi> tryall, I ſhall now preſent you with the ends I propoſed to my ſelfe, in the publication herof, and they were, <hi>viz.</hi>
+            </p>
+            <p>Firſt, the aſſerting of that good old principall of our Engliſh Lawes; <hi>viz.</hi> that the Jurie are Judges both of Law and fact, it being a principall as good as its ancient; indeed its of that weight as that our weale and woe reſts wholly upon it. Judges, as they are cald, may be byaſſed and corrupted; long continuance in their places may doe it, favour and affections to great men may doe it, as when a buſineſſe comes in competition, with the power ruling, under which they are Iudges; as in the Caſe of <hi>Iohn Lil<g ref="char:EOLhyphen"/>burne,</hi> in whoſe caſe its manifeſt how the Law was abu<g ref="char:EOLhyphen"/>ſed, not ſuffered to bee read, but now Iuries have none of theſe cloggs, they are not men perpetuated, nor men in<g ref="char:EOLhyphen"/>terreſted, but men indifferent and ſworne to goe accor<g ref="char:EOLhyphen"/>ding to evidence, a moſt ſure ſafe and equall way of doe<g ref="char:EOLhyphen"/>ing right to all men, and betweene man and man; ſo that Gentlemen, your imployment is not meane, you are not ſervants in the Court, your employment is Honoura<g ref="char:EOLhyphen"/>ble,
+<pb n="11" facs="tcp:152680:6"/>
+and you are Maſters of the Court, and therefore Gentlemen this aſſertion comes in.</p>
+            <p>The ſecond place, <hi>viz.</hi> That both Law and fact ought to be plaine and cleare before you, therefore the evidences ought to direct their ſpeech unto you, and both evidences for the Common weale, and on behalfe of the Priſoner, ought to bee free without interruption, and the Priſoner, himſelfe to be free to ſpeake without the awe and threats of the Court; for Gentlemen the evidence is to you, and for you to judge of, and if the evidence ſhould bee inter<g ref="char:EOLhyphen"/>rupted, your judgement cannot but bee very imperfect, and the Priſoner many times may have ſomething to ſay that may give great ſatisfaction; but if hee bee awed and not ſuffered to ſpeake, ſuch ſatisfaction may not be recei<g ref="char:EOLhyphen"/>ved as may be requiſite; therefore Gentlemen, all things of this nature comes within your cogniſance, and you ought, its your power and duty to ſee a free and cleare current for the evidences and Priſoner, that one bee not ſtretcht forth on the tenters by tricks the Court many times uſes, and the poore Priſoner abridged and debarred of his liberty; its your worke, it chiefly concerns you, and therefore none ought to intermeddle with it.</p>
+            <p>The next thing I have to offer to you, as my end in theſe, is a great cheat that I then at the aforeſaid try<g ref="char:EOLhyphen"/>all perceived to bee; put on the Priſoner; <hi>viz.</hi> there being ſome crimes, as Treaſon and Adultery, that are to be pro<g ref="char:EOLhyphen"/>ſecuted within twelve Months, and that all proſecution out of that time is made null and invallid, and that ſome mens malice may be anſwered, who covet as much after blood, as the babe after its mothers breſt, ſo that though they have nothing within the time, yet will they lay their inditement within the time, when their witneſſes all ſweare to circumſtances beyond their time a great while, as was in the forementioned tryall, wherein the inditement included a fact done on the firſt of <hi>June</hi> laſt, and not one of the witneſſes ſwore neare the time, but all
+<pb n="12" facs="tcp:152680:7"/>
+ſwore beyond the twelve Months, a very great abuſe, and of dangerous conſequences: for ſuppoſe a Priſoner be ig<g ref="char:EOLhyphen"/>norant of the Law in ſuch caſes, (as alas how many poore wretches doe periſh at the Barre in the Old Bayly, for want of knowledge) what great danger is his life in? how will his life become a ſacrifice through his ignorance of the Law, to the malice of bloody minded men? Oh! therefore Gentlemen conſider you are ſworne, the Law hath made you ſuperiour in the Court, the lives of many lies in your breaſt, and honeſty, and how it behooves you to weigh and examine every perticular, both of indite<g ref="char:EOLhyphen"/>ment and evidence, particulars of the inditement. Firſt, the fact. Secondly the time on which the fact was com<g ref="char:EOLhyphen"/>mitted, both being equally materiall and in the evidence. Firſt whether they bee to the fact plaine and cleare. Se<g ref="char:EOLhyphen"/>condly to the time true and certaine, both which being as neceſſary as the proofe of the fact, which moſt evident<g ref="char:EOLhyphen"/>ly appeares in the two caſes of treaſon and adultery.</p>
+            <p>Firſt, in the caſe of treaſon, whether it bee in words, plots againſt his highneſſe or the preſent government, or the coyning or counterfeiting of money, all being limi<g ref="char:EOLhyphen"/>ted within 12 Months for proſecuting, as appeares by the words of his highneſſe declaration publiſhed in <hi>Ian.</hi> 16<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5 3. the words are theſe: Provided alwayes that no perſon or perſons, ſhall bee indicted or arraigned for any of the offences before mentioned in this ordinance, unleſſe ſuch offender or offenders ſhall bee indicted or proſecuted for the ſame within one yeare after the off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce committed, ſo that the time muſt bee punctually ſworne to as well as the fact, or elſe its imperfect; for if it bee without the time that is above twelve Months its invalid, and no perſon ought or can be arraigned for any act of Treaſon.</p>
+            <p>Againe, to every fact of Treaſon, the Law requires two ſufficient plain and cleer Witneſſes, appeares 1 <hi>Ed.</hi> 6. <hi>chap.</hi> 12. and 6. <hi>Ed.</hi> 6. <hi>chap.</hi> 11. to all Treaſons whether high or petty Treaſons, there ſhall be two clear, legall, and ſuf<g ref="char:EOLhyphen"/>ficient
+<pb n="13" facs="tcp:152680:7"/>
+Witneſſes. Sir <hi>Edward Cooke</hi> in 3. part <hi>Inſtitutes cha.</hi> of High Treaſon, is of the ſame opinion. So that if there be not two Witneſſes, and they plain and cleer (not circumſtances and inferences) to a treaſonable fact, its not ſufficient in Law for you to ground a Verdict on; and if two Witneſſes ſhould ſwear to one and the ſame fact, yet if they differ in time one from another, one ſweares to one time, and the other to another time, it's but one Wit<g ref="char:EOLhyphen"/>neſſe: the Law ſo deemes it, and (Gentlemen) you are Iudges of Law as well as of fact. This ought to be conſi<g ref="char:EOLhyphen"/>dered by you.</p>
+            <p>And then as touching Adultery, the Act of Parliament of Iune 24. 1650 ſaith, the words are theſe: Provided alwayes that no perſon or perſons ſhall incur any of the penalties in this Act mentioned, unleſſe the ſaid perſon or perſons be therefore indicted within twelve months after the offence committed; And evidence muſt be ſworn for the priſoner, the words are theſe: Provided alſo, that it ſhall be lawfull for any perſon or perſons who ſhall be in<g ref="char:EOLhyphen"/>dicted for any of the offences aforeſaid, to produce at their reſpective Trials, any Witneſſe or Witneſſes, for the clearing of themſelves from the ſaid offences whereof they ſhall be ſo indicted, and the Iuſtices before whom ſuch triall ſhall be had, ſhall have power, and are hereby authorized to ex<g ref="char:EOLhyphen"/>amine thoſe Witneſſes upon oath. So that both the fact and the time muſt bee cleere and certaine, both in the Indict<g ref="char:EOLhyphen"/>ment and evidence; and the reaſon is this, that the Priſo<g ref="char:EOLhyphen"/>ner may (if hee hath any) produce his Witneſſes, which that he cannot doe, if the time be not certain, it being the company the Priſoner is in at ſuch a time that muſt either cleer him, or lay him open to your Verdict: and therefore (Gentlemen) indictment and evidence muſt both agree in fact and time; if not, they are both invalids, and ought to be rejected, and no proceedings can or ought to be upon the ſame: and further, the Priſoner ought to have notice of both fact and time, before he be call'd to a triall, that
+<pb n="14" facs="tcp:152680:8"/>
+ſo he may provide his Witneſſes, ſince the Act requires them to be heard and ſworn, and not ſo ſuddenly ſurpri<g ref="char:EOLhyphen"/>zed by an Indictment, as Mr. <hi>Webbe</hi> I perceive was, who being committed for coyning, was unexpectedly arraigned for another thing, not having any time to provide for his defence, quite contrary to the Act which allows Wit<g ref="char:EOLhyphen"/>neſſes to be heard and ſworn, which cannot be without no<g ref="char:EOLhyphen"/>tice and time given.</p>
+            <p>And Gentlemen, the Law hath put you into a place of great truſt, and in caſe the Court ſhould have ſuch preju<g ref="char:EOLhyphen"/>dice againſt any Priſoner as thus to ſurprize him, and to lay him open to the mercy of death: It's your care to prevent it, and do the Priſoner right therein; and indeed ſo much the more, for that your Verdict is to be grounded on cleer and plain proofes, which cannot be where the Priſoner is call'd to a Triall for a fact which he dreams not of, eſpecially in the caſe of Adultery, where the negative is as good as the affirmative.</p>
+            <p>Gentlemen, life and death is in your hands, the weale and woe of many a poor Family: your place is of great weight, the higheſt and greateſt in the Court; the Court moves as you move; if you move amiſs, the Court muſt move ſo alſo. The things that I have taken liberty to offer you are neceſſary; ſuch Cauſes may come before you: the Court may have that prejudice againſt the Priſoner, as to throw them in many diſadvantages, and may ſo much undervalue you (who indeed are the life of the Court) as will not allow you the Law to read and examine, as they did by Mr. <hi>Webbes</hi> Iury.</p>
+            <p>Therefore Gentlemen, as you are Engliſh men, and pro<g ref="char:EOLhyphen"/>feſſe the Lord Chriſt, and are now call'd to ſo great an im<g ref="char:EOLhyphen"/>ployment (wherein you have a very large opportunity of immitating our bleſſed Saviour, and following his golden Rule: Doe to all men as your ſelves would be done unto.) Rouze up your Spirits; claim your Right; let not might and greatneſſe ſway you, but in all things cleer and plaine evidences,
+<pb n="15" facs="tcp:152680:8"/>
+and a good conſcience; ſo will you purchaſe praiſe both of God and men, and be examples of great good to your Countrey-men: For which the Lord in his infinite mercy go along with you, according to the weight of your im<g ref="char:EOLhyphen"/>ployment.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152680:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
